@@ -1,0 +1,105 @@
+
+
+#form{
+	background-color: #A3BCF9;
+	height: 400px;
+	width: 700px;
+	margin: auto;
+    margin-top: 55px;
+	margin-left: auto;
+    margin-right:  auto;
+    padding-left: 90px;
+    padding-top: 35px;
+    padding-bottom: 55px;
+	
+}
+
+#form h3{
+	border-bottom: 2px solid #3399ff;
+	width: 210px;
+	paddding: 5px;
+}
+::placeholder{
+	color: #fff;
+}
+
+
+#input #input-group{
+	width: 300px;
+	margin: 5px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	outline: none;
+	background: transparent;
+	color: #fff;
+
+}
+
+
+#input2 #input-group{
+	width: 195px;
+	margin: 5px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	outline: none;
+	background: transparent;
+	color: #fff;
+}
+
+#input3 #input-group{
+	margin-left: 50px;
+}
+
+#input4 #input-group{
+	width: 300px;
+	margin: 5px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	outline: none;
+	background: transparent;
+	color: #fff;
+}
+
+#input4 #input-group1{
+	width: 615px;
+	margin: 5px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	outline: none;
+	background: transparent;
+	color: #fff;
+}
+
+#input5 h3{
+	border-bottom: 2px solid #3399ff;
+	width: 220px;
+	paddding: 5px;
+}
+
+#input6 #input-group{
+	width: 300px;
+	margin: 5px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	outline: none;
+	background: transparent;
+	color: #fff;
+}
+
+#input6 #input-group1{
+	width: 615px;
+	margin: 5px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	outline: none;
+	background: transparent;
+	color: #fff;
+    margin-bottom: 15px;
+}
+

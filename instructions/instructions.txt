@@ -1,0 +1,34 @@
+
+instructions:
+
+1)install xampp
+
+2)paste flight-management-system folder inside xampp>htdocs folder(see img1)
+
+
+
+3)start xampp control panel (see img2)
+
+4)start apache and mysql server (see img3)
+
+5)now go to this address from your browser: 
+	
+	localhost/flight-management-system/index.php
+
+6)to access database, go to:
+
+	localhost/phpmyadmin
+
+7)From phpmyadmin, import flightmanagement(.sql) file (see img4)
+
+8) Try logging in using these usernames : (CASE INSENSITIVE)
+
+	USERNAME 	PASSWORD
+	kallol	          1234
+	sanjida            123
+	kausar             123
+	homaira            123
+	trena		   123
+	fabiha             123
+	aaa                333
+	admin             admin
